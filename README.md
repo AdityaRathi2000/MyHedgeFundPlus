@@ -2,7 +2,7 @@
 
 After being able to do fundamental research with MHF, I wanted to try and be able to test common trading strategies (and backtesting them) and figure out the best technical analysis strategies for a particular stock. There are a lot of strategies out there, however after testing on several stocks and tuning the parameters, I decided to look at 4. Introducing, MyHedgeFund+
 
-# What will I be able to see using MHF
+# What will I be able to see using MHF+
 
 You will be able to do some technical analysis and see how well the company does with the indicator strategies: SMA Crossovers, RSI indicator, MACD indicator and TTM squeeze. You will also be able to back test and see how much money you would have earned, had you used that particular strategy to buy and sell at the points where the graph tells you to do so
 
