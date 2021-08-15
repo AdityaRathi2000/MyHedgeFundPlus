@@ -4,7 +4,7 @@ After being able to do fundamental research with MHF, I wanted to try and be abl
 
 # What will I be able to see using MHF+
 
-You will be able to do some technical analysis and see how well the company does with the indicator strategies: SMA Crossovers, RSI indicator, MACD indicator and TTM squeeze. You will also be able to back test and see how much money you would have earned, had you used that particular strategy to buy and sell at the points where the graph tells you to do so
+You will be able to do some technical analysis and see how well the company does with the indicator strategies: SMA Crossovers, RSI indicator, MACD indicator and TTM squeeze. You will also be able to back test and see how much money you would have earned, had you used that particular strategy to buy and sell at the points where the graph tells you to do so. Look at sample_website.html to see a preview of this information for the company Square (TICKER: SQ)
 
 # How do I use it
 
