@@ -8,6 +8,8 @@ You will be able to do some technical analysis and see how well the company does
 
 # How do I use it
 
+You can download the code on your system and run it from there, or for ease of use, just use this streamlit version of the same: https://share.streamlit.io/adityarathi2000/myhedgefundplus_s/main/main.py
+
 Just download main.py, mhfPlus_functions.py, MHF_Plus_html.py and double-bubble-outline.png. Open main.py and appropriately edit the file path to point to wherever you have downloaded the files to. Additionally, using this tutorial (http://www.automationtestinghub.com/download-chrome-driver/) download the chromedriver for your device, and edit the path for that. This will automatically open the html file when you run the code and act as a dashboard for you to easily view the results!
 
 Then navigate to main.py from terminal and run it (Using python3 main.py). You will be prompted to type in the ticker symbol you are interested in (AAPL, MSFT, CAKE, BABA, etc.), as well as start year and month for the backtesting duration and number of shares you would want to invest per entry and exit of a position. After a few seconds, you should see an html file open up with all the relevant information.
